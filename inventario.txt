@@ -1,0 +1,5 @@
+goma 20 0.200000
+cartulina 10 0.100000
+lapiz 50 0.500000
+cuaderno 60 2.500000
+tachuelas 100 0.300000
